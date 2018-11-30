@@ -1,5 +1,5 @@
 # block_explorer
-This is a block explorer dApp built using ethers-cli that displays the last ten blocks within the Ethereum network that have been validated.  
+This is a block explorer built using ethers-cli that displays the last ten blocks within the Ethereum network that have been validated.  To make this a dApp, host your files on ipfs. 
 
 # Pre-requisites
 
@@ -7,7 +7,7 @@ node.js
 git
 ethers-cli
 metamask
-ipfs
+ipfs (if you want to make it a dApp)
 
 # Deployment
 
