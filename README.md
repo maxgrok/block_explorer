@@ -1,6 +1,14 @@
 # block_explorer
 This is a block explorer dApp built using ethers-cli. 
 
+# Pre-requisites
+
+node.js
+git
+ethers-cli
+metamask
+ipfs
+
 # Deployment
 
 Use `ethers-build serve` in your CLI within the project folder to deploy to localhost. 
