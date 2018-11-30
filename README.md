@@ -1,5 +1,5 @@
 # block_explorer
-This is a block explorer dApp built using ethers-cli. 
+This is a block explorer dApp built using ethers-cli that displays the last ten blocks within the Ethereum network that have been validated.  
 
 # Pre-requisites
 
